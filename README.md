@@ -1,13 +1,8 @@
 <div align="center">
-Hello! I'm Emmanuel Fernandes.
+Hello! I'm Emmanuel Fernandes, Computer Scientist (UFG)
 </div>
 
-
-
-<div id="intro-img" align="center">
-  <p>Computer Science Student (UFG)</p>
-</div>
-
+<br/>
 
 <table align="center">
   <tr>
@@ -19,3 +14,13 @@ Hello! I'm Emmanuel Fernandes.
     </td>
   </tr>
 </table>
+
+## 🛠 &nbsp;Work Stack
+
+<div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=react,javascript,typescript,css,html,python,cs,nodejs,vite,tailwind,git,figma,vercel,docker,mysql,rabbitmq&perline=8" />
+</a>
+</div>
+
+<br><br>
